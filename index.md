@@ -5,8 +5,6 @@
 
 ***
 
-![image](https://cdn.luogu.com.cn/upload/image_hosting/3z37rtoa.png)
-
 ```
 你是信的开头诗的内容童话的结尾  
 你是理所当然的奇迹  
@@ -16,4 +14,4 @@
                        ——《勾指起誓》
 ```
 
-
+![image](https://cdn.luogu.com.cn/upload/image_hosting/3z37rtoa.png)
